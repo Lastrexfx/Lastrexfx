@@ -29,11 +29,17 @@ https://camo.githubusercontent.com/c1597b73a7fa9b2c4b4d12d0a9c17db84cbc6cad86304
 
 
 
-                                        class lastrex { 
-                                          constructor(options) { 
-                                              this.name = "lastrex", 
-                                              this.sex = "man", 
-                                              this.length = "1.82", 
-                                              this.job = "developer
+                                        class lastrex {
+    constructor(options) {
+        this.name = "lastrex",
+        this.sex = "man",
+        this.length = "1.82",
+        this.job = "developer",
+        this.weight = "65",
+        this.age = "20",
+        this.discord.tag = "Lastrex#1879"
+    };
+}
+module.exports = lenzy
 
 
