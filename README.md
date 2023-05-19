@@ -9,3 +9,31 @@ https://camo.githubusercontent.com/c1597b73a7fa9b2c4b4d12d0a9c17db84cbc6cad86304
 - Discord Lastrex#1879
 
 
+
+
+
+
+
+
+
+
+
+
+
+                                          
+
+
+
+
+
+
+
+
+                                        class lastrex { 
+                                          constructor(options) { 
+                                              this.name = "lastrex", 
+                                              this.sex = "man", 
+                                              this.length = "1.82", 
+                                              this.job = "developer
+
+
