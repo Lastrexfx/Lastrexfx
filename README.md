@@ -29,6 +29,6 @@
 
 
 
-                                        class lastrex {
+                                        
     
 module.exports = lastrex
