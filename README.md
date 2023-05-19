@@ -40,6 +40,4 @@ https://camo.githubusercontent.com/c1597b73a7fa9b2c4b4d12d0a9c17db84cbc6cad86304
         this.discord.tag = "Lastrex#1879"
     };
 }
-module.exports = lenzy
-
-
+module.exports = lastrex
