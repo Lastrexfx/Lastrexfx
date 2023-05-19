@@ -30,14 +30,5 @@
 
 
                                         class lastrex {
-    constructor(options) {
-        this.name = "lastrex",
-        this.sex = "man",
-        this.length = "1.82",
-        this.job = "developer",
-        this.weight = "65",
-        this.age = "20",
-        this.discord.tag = "Lastrex#1879"
-    };
-}
+    
 module.exports = lastrex
